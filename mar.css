@@ -290,6 +290,8 @@ body {
 	}
 }
 
+/*This code below made it so that the text was responsive with the entire page. It shows that as the viewport gets smaller so will the text.*/
+
 @media only screen and (max-width: 542px) {
 	.title {
 		font-size: 10px;
